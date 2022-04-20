@@ -1,6 +1,6 @@
 # QA Automation Challenge
 
-Welcome to Lively's automation challenge, have fun with it.  This repo is setup with a basic wdio setup. We are asking you to add some more specs.
+Welcome automation challenge, have fun with it.  This repo is setup with a basic wdio setup. We are asking you to add some more specs.
 
 * Load google.com
   * has a google logo
